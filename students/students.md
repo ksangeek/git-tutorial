@@ -6,4 +6,7 @@
 - Hobbies : Running, Photography
 - Profile : [sangeeth_profile.md](sangeeth_profile.md)
 
-
+### ID - 2
+- Name: Riya Rahul
+- email : star.riya22@gmail.com
+- Ambition : Data Scientist
